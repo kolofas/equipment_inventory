@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Django development settings
+*.sqlite3
+*.pyc
+*.pyo
+
+# Logs and databases
+*.log
+*.sql
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Virtual environment
+.env/
+
+# Ignore migrations, as they can be automatically regenerated
+**/migrations/
